@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.2",
+    "axios": "^1.13.2",
+    "element-plus": "^2.12.0",
+    "sass": "^1.96.0",
+    "vue-router": "^4.6.4"
+  }
+}
